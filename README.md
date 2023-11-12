@@ -31,7 +31,7 @@ This repository contains the source code for "The Royal Touch" website. The webs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/royal-touch-website.git
+   git clone https://github.com/Nitin-Mishra-7156/the-royal-rtouch.git
    ```
 
 2. Open the project in your preferred code editor.
